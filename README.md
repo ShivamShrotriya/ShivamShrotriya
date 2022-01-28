@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShivamShrotriya
 - 👀 I’m interested in Ecology, Conservation Biology and associated technology 
-- 🌱 I’m currently learning Python
+- 🌱 I knwo R and building my knowledge on Python as well.
 - 💞️ I’m looking to collaborate on Camera-Trap image processing using AI tools
 - 📫 Reach me at shivam.shrotriya@gmail.com or shivam@wii.gov.in
 
